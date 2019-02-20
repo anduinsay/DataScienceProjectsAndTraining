@@ -5,5 +5,5 @@
 ### Mainly focus on learning Preprocessing/ models tuning/ new algorithms/ features Engin
 
 
-1. Second/Third week I will work on CS231n
+1. Second/Third week of Feb will work on CS231n
 
